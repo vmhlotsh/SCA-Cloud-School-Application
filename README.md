@@ -1,1 +1,1 @@
-# SCA CLOUD SCHOOL APPLICATION
+# SCA Cloud School Application
